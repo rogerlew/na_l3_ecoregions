@@ -1,0 +1,6 @@
+NA_CEC_Eco_Level3.dbf filter=lfs diff=lfs merge=lfs -text
+NA_CEC_Eco_Level3.sbn filter=lfs diff=lfs merge=lfs -text
+NA_CEC_Eco_Level3.sbx filter=lfs diff=lfs merge=lfs -text
+*.sbp filter=lfs diff=lfs merge=lfs -text
+NA_CEC_Eco_Level3.shx filter=lfs diff=lfs merge=lfs -text
+NA_CEC_Eco_Level3.shp filter=lfs diff=lfs merge=lfs -text
