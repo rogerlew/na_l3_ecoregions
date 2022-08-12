@@ -35,3 +35,6 @@ e.g.
   'Shape_Area (Real)': 81830013715.6}}
 ```
 
+## Funding Acknowledgement
+
+Funding in part by NASA Jet Propulsion Laboratory (JPL) Award "Improving Predictions of Water Yield and Sediment Loads in the Columbia River Basin" 
