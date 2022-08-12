@@ -1,8 +1,11 @@
 # na_l3_ecoregions
 
-https://gaftp.epa.gov/EPADataCommons/ORD/Ecoregions/cec_na/NA_CEC_Eco_Level3.zip
-
 Identify l3 ecoregions in North America using Python
+
+## Data
+
+Ecoregions dataset from:
+https://gaftp.epa.gov/EPADataCommons/ORD/Ecoregions/cec_na/NA_CEC_Eco_Level3.zip
 
 ## installation
 
@@ -31,3 +34,4 @@ e.g.
   'Shape_Leng (Real)': 2889543.18764,
   'Shape_Area (Real)': 81830013715.6}}
 ```
+
